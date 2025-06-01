@@ -102,7 +102,8 @@
   <br>
 
   [![Email](https://img.shields.io/badge/Email-4CAF50?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:guilhermegs.dev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=fff)](hwww.linkedin.com/in/guilherme-silva-4b9b07350)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilherme-silva-4b9b07350)
+
   <!--  [![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/seunumerowhatsapp) <!-- 
   
 </div>
