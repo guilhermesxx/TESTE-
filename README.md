@@ -1,118 +1,119 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+<!-- 🌊 Header animado com borda verde -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4CAF50"/>
 
+<!-- 🎤 Título central com breve descrição -->
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      Desenvolvedor Backend e entusiasta por tecnologia
     </b>
       <br>
-      Hi there! I'm Kamilly Medino
+      Olá! Eu sou o Guilherme S. (guilhermesxx)
       <br>
   </samp>
 </div>
+
+<!-- 📈 Contador de visitas -->
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=4CAF50&bg=00000000&no=2&ff=digi&tb=Visitas%3A++&ta=" /></p> 
 </div>
       
 <br>
 <br>
       
+<!-- 🐱 Linha do gif animado do gato (trocável) -->
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://i.gifer.com/4M4x.gif" width="200">
 </div>
 
+<!-- 🏷️ Badge com o nome de usuário -->
+<div align="center">
+  <img src="https://img.shields.io/badge/guilhermesxx-4CAF50" />
+</div>
+
+<!-- 📜 Texto animado digitando -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4CAF50&width=900&size=21&center=true&lines=Sou+do+Brasil;Sou+um+estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+desenvolvimento;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </div>
 
 <br>
 
+<!-- 🔍 Seção com mais informações (expansível) -->
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais Informações</b>
       </samp>
   </summary>
   
   <br>
 
+<!-- 📊 Estatísticas do GitHub -->
 <div align="center">
   <img
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=merko"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&langs_count=16&theme=merko"
   />
   <br>
   <br>
   <img
     align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    alt="Detalhes do Perfil"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=merko"
   />
   <br>
   <br>
   <img
     height=154
     align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    alt="Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=merko&hide_border=true"
   />
-  </div>
+</div>
 
+<!-- 🛠️ Skills em ícones -->
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
 </div>
 
 <br>
 
 ##
 
+<!-- 📬 Seção de contato -->
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Entre em contato:
     </b>
   </samp>
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Email](https://img.shields.io/badge/Email-4CAF50?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:guilhermegs.dev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4CAF50?style=for-the-badge&logo=linkedin&logoColor=fff)](hwww.linkedin.com/in/guilherme-silva-4b9b07350)
+  <!--  [![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/seunumerowhatsapp) <!-- 
   
 </div>
 
+<!-- 🌐 Links extras -->
 <div align="center">
 
 <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        ♡ <a href="https://linktr.ee/guilhermesxx">linktr.ee</a> ⊹
+        <a href="https://notion.so">notion</a> ♡
       </samp>
   </p>
 
@@ -125,4 +126,5 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<!-- 🌊 Footer animado com borda verde -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer"/>
