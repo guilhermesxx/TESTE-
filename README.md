@@ -42,31 +42,34 @@
 
 <div align="center">
   <img
-    height="165"
+    height=165
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka&title_color=F7D02C&icon_color=F7D02C&text_color=F7D02C"
   />
   <img
-    height="165"
+    height=165
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&font=Iosevka&langs_count=6&theme=tokyonight&title_color=F7D02C&icon_color=F7D02C&text_color=F7D02C"
   />
-  <br><br>
+  <br>
+  <br>
   <img
     align="center"
     alt="Profile Details"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=tokyonight&title_color=F7D02C&icon_color=F7D02C&text_color=F7D02C"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=tokyonight"
   />
-  <br><br>
+  <br>
+  <br>
   <img
-    height="154"
+    height=154
     align="center"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=tokyonight&card_width=885&title_color=F7D02C&icon_color=F7D02C&text_color=F7D02C"
+    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=tokyonight&card_width=885"
   />
-</div>
+  </div>
+
 
 
 <div align="center" style="display: inline_block"><br>
