@@ -59,7 +59,7 @@
     <img
       align="center"
       alt="Detalhes do Perfil"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=radical"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=radicaltrue&text_color=FFD500&icon_color=0077FF&bg_color=00000000"
       style="filter: drop-shadow(0 0 2px #0077FF);"
     />
     <br><br>
