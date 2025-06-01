@@ -1,19 +1,13 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFD500"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff4c4c"/>
 
 <div align="center">
   <samp style="color:#0077FF;">
-  <samp>
     <b>
       システムアナリスト
     </b>
     <br>
     Olá! Eu sou Guilherme S.
     <br>
-      <br>
-      Hi there! I'm Guilherme SXX
-      <br>
   </samp>
 </div>
 
@@ -25,23 +19,16 @@
       style="display: inline-block;"
     />
   </p> 
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=ff4c4c&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
 <br><br>
 
-      
-<br>
-<br>
-      
 <div align="center">
   <img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" width="200" style="border: 3px solid #0077FF; border-radius: 12px;" alt="Gif animado"/>
-  <img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" width="200">
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/guilhermesxx-FFD500?style=for-the-badge&logo=github&logoColor=000080" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/guilherme_♡-black" />
 </div>
 
 <div align="center" style="width: 100%;">
@@ -50,23 +37,17 @@
     alt="Typing SVG" 
     style="border-bottom: 2px solid #0077FF;"
   />
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff4c4c&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <details style="border: 2px solid #0077FF; border-radius: 10px; padding: 10px;">
-<details align="center">  
   <summary>
     <samp style="color:#0077FF;">
       <b>Mais Informações</b>
     </samp>
-      <samp>
-        <b>More Info</b>
-      </samp>
   </summary>
-
+  
   <br>
 
   <div align="center">
@@ -93,34 +74,6 @@
       src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=radical&card_width=885"
       style="border: 2px solid #FFD500; border-radius: 12px;"
     />
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=tokyonight"
-  />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=tokyonight&card_width=885"
-  />
   </div>
 
   <div align="center" style="display: inline-block; margin-top: 15px;">
@@ -137,23 +90,8 @@
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" alt="Photoshop" />
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="Figma" />
   </div>
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
-</div>
 
   <br>
-<br>
 
   <div align="center" style="color:#0077FF;">
     <samp>
@@ -167,7 +105,6 @@
     [![WhatsApp](https://img.shields.io/badge/WhatsApp-FFD500?style=for-the-badge&logo=whatsapp&logoColor=000080)](https://wa.me/5584988964920)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD500?style=for-the-badge&logo=linkedin&logoColor=000080)](https://www.linkedin.com/in/guilhermesxx/)
   </div>
-## 
 
   <div align="center" style="color:#FFD500;">
     <p>
@@ -177,42 +114,16 @@
       <a href="https://guilhermesxx.notion.site/" style="color:#0077FF;">notion</a> ♡
     </p>
   </div>
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
 
 </details>
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:guilherme@example.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/guilhermesxx/)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](#)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](#)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilhermesxx/)
-  
-</div>
-
-<div align="center">
 
 <br><br>
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/guilhermesxx">rentry</a> ⊹
-        <a href="https://linktr.ee/guilhermesxx">linktr.ee</a> ⊹
-        <a href="https://byguilhermesxx.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
 
 <div align="center" style="border: 2px solid #0077FF; padding: 15px; border-radius: 12px;">
   <img src="https://profile-counter.glitch.me/guilhermesxx/count.svg" alt="Contador de perfil" />
 </div>
 
 <br>
-##
 
 <div align="center" style="background:#000000cc; padding: 10px; border-radius: 12px; border: 2px solid #FFD500;">
   <picture>
@@ -225,10 +136,7 @@
     >
   </picture>
 </div>
-</details>
 
-<br>
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD500&height=100&section=footer" alt="Footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4c4c&height=100&section=footer"/>
