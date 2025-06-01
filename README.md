@@ -70,12 +70,10 @@
   />
   </div>
 
-
-
 <div align="center" style="display: inline_block"><br>
   <img width="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img width="40" alt="Java" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img width="40" alt="Django" title="Django" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
+  <img width="40" alt="Django" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
 </div>
 
 <br>
