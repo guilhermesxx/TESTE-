@@ -3,23 +3,30 @@
 <div align="center">
   <samp>
     <b>
-      Estudante de Desenvolvimento de Sistemas
+      Desenvolvedor de Sistemas
     </b>
       <br>
-      Seja bem-vindo ao meu perfil!
+      Olá! Eu sou Guilherme Silva
       <br>
   </samp>
 </div>
 
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=F7D02C&bg=00000000&no=2&ff=digi&tb=Visitas+ao+Perfil%3A++&ta=" /></p> 
+</div>
+      
 <br>
 <br>
       
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" width="200" />
+  <img src="https://i.pinimg.com/originals/9f/b1/25/9fb125f1fedc8cc62ab5b20699ebd87d.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/guilherme_♡-F7D02C?style=flat&logo=pikachu&logoColor=black" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F7D02C&width=900&size=21&center=true&lines=Sou+estudante+de+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F7D02C&width=900&size=21&center=true&lines=Sou+do+Brasil;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Tenho+paix%C3%A3o+por+tecnologia;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -38,24 +45,35 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&theme=radical&hide_title=true&text_color=F7D02C&icon_color=F7D02C&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka&title_color=F7D02C&icon_color=F7D02C&text_color=F7D02C"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&langs_count=6&theme=radical&text_color=F7D02C&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&font=Iosevka&langs_count=6&theme=tokyonight&title_color=F7D02C&icon_color=F7D02C&text_color=F7D02C"
   />
-</div>
-
-<br>
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Profile Details"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=tokyonight"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=tokyonight&card_width=885"
+  />
+  </div>
 
 <div align="center" style="display: inline_block"><br>
-  <!-- Exemplos de skills, você pode editar depois se quiser -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img width="40" alt="Java" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img width="40" alt="Django" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
 </div>
 
 <br>
@@ -71,13 +89,10 @@
   <br>
   <br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-F7D02C?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/guilhermesxx/)
-  [![Gmail](https://img.shields.io/badge/Gmail-F7D02C?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:seu-email@gmail.com)
+  [![Gmail](https://img.shields.io/badge/-Gmail-F7D02C?style=for-the-badge&logo=gmail&logoColor=black&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-F7D02C?style=for-the-badge&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/guilhermesxx/)](https://www.linkedin.com/in/guilhermesxx/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-F7D02C?style=for-the-badge&logo=github&logoColor=black&link=https://github.com/guilhermesxx)](https://github.com/guilhermesxx)
 </div>
-
-##
-
-</details>
 
 <br>
 <br>
