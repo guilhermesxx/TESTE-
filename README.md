@@ -73,7 +73,7 @@
 <div align="center" style="display: inline_block"><br>
   <img width="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img width="40" alt="Java" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img width="40" alt="Django" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+  <img width="40" alt="Django" title="Django" src="https://w7.pngwing.com/pngs/246/205/png-transparent-computer-icons-django-django-angle-text-logo-thumbnail.png" />
 </div>
 
 <br>
